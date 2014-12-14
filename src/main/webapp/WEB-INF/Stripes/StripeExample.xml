@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stripe>
+    <book>
+        <name>Harry Potter the Pot Head</name>
+        <author>Matt Gleason</author>
+        <image>http://i.ytimg.com/vi/8Uee_mcxvrw/maxresdefault.jpg</image>
+    </book>
+    <music>
+        <playlists>
+            <playlist>
+                <id>1</id>
+                <name>Zef Bitches</name>
+                <songs>
+                    <song>
+                        <http-link>http://open.spotify.com/track/2CYAADHacSdAJBbT0nhELO</http-link>
+                        <spotify-uri>spotify:track:2CYAADHacSdAJBbT0nhELO</spotify-uri>
+                        <embed-code>&lt;iframe src="https://embed.spotify.com/?uri=spotify:track:2CYAADHacSdAJBbT0nhELO" width="300" height="380" frameborder="0" allowtransparency="true"&gt;</embed-code>
+                    </song>
+                    <song>
+                        <http-link>http://open.spotify.com/track/6kBHajFZpcnHxxBqUvMxpw</http-link>
+                        <spotify-uri>spotify:track:6kBHajFZpcnHxxBqUvMxpw</spotify-uri>
+                        <embed-code>&lt;iframe src="https://embed.spotify.com/?uri=spotify:track:6kBHajFZpcnHxxBqUvMxpw" width="300" height="380" frameborder="0" allowtransparency="true"&gt;</embed-code>
+                    </song>
+                    <song>
+                        <http-link>http://open.spotify.com/track/6yDu6UVWQ820sn3nkh1sag</http-link>
+                        <spotify-uri>spotify:track:6yDu6UVWQ820sn3nkh1sag</spotify-uri>
+                        <embed-code>&lt;iframe src="https://embed.spotify.com/?uri=spotify:track:6yDu6UVWQ820sn3nkh1sag" width="300" height="380" frameborder="0" allowtransparency="true"&gt;</embed-code>
+                    </song>
+                </songs>
+            </playlist>
+            <playlist>
+                <id>2</id>
+                <name>Cylab Hoes</name>
+                <songs>
+                    <song>
+                        <http-link>http://open.spotify.com/track/723KSiyolGxYd9xRRsuhzA</http-link>
+                        <spotify-uri>spotify:track:723KSiyolGxYd9xRRsuhzA</spotify-uri>
+                        <embed-code>&lt;iframe src="https://embed.spotify.com/?uri=spotify:track:723KSiyolGxYd9xRRsuhzA" width="300" height="380" frameborder="0" allowtransparency="true"&gt;</embed-code>
+                    </song>
+                    <song>
+                        <http-link>http://open.spotify.com/track/3bN3pbLmPh5xN4GRTvyOa3</http-link>
+                        <spotify-uri>spotify:track:3bN3pbLmPh5xN4GRTvyOa3</spotify-uri>
+                        <embed-code>&lt;iframe src="https://embed.spotify.com/?uri=spotify:track:3bN3pbLmPh5xN4GRTvyOa3" width="300" height="380" frameborder="0" allowtransparency="true"&gt;</embed-code>
+                    </song>
+                    <song>
+                        <http-link>http://open.spotify.com/track/5RJ76wkP1rPY6w1wGjVStS</http-link>
+                        <spotify-uri>spotify:track:3bN3pbLmPh5xN4GRTvyOa3</spotify-uri>
+                        <embed-code>&lt;iframe src="https://embed.spotify.com/?uri=spotify:track:3bN3pbLmPh5xN4GRTvyOa3" width="300" height="380" frameborder="0" allowtransparency="true"&gt;</embed-code>
+                    </song>
+                </songs>
+            </playlist>
+            <playlist>
+                <id>3</id>
+                <name>Birds of a feather</name>
+                <songs>
+                    <song>
+                        <http-link>http://open.spotify.com/track/56bdxo5brQmgjzZAOc98LU</http-link>
+                        <spotify-uri>spotify:track:56bdxo5brQmgjzZAOc98LU</spotify-uri>
+                        <embed-code>&lt;iframe src="https://embed.spotify.com/?uri=spotify:track:56bdxo5brQmgjzZAOc98LU" width="300" height="380" frameborder="0" allowtransparency="true"&gt;</embed-code>
+                    </song>
+                    <song>
+                        <http-link>http://open.spotify.com/track/06KQin7V7Veqt5DGTLyBPc</http-link>
+                        <spotify-uri>spotify:track:06KQin7V7Veqt5DGTLyBPc</spotify-uri>
+                        <embed-code>&lt;iframe src="https://embed.spotify.com/?uri=spotify:track:06KQin7V7Veqt5DGTLyBPc" width="300" height="380" frameborder="0" allowtransparency="true"&gt;</embed-code>
+                    </song>
+                    <song>
+                        <http-link>http://open.spotify.com/track/7tsYqIK6cefVAIBgHCxTzP</http-link>
+                        <spotify-uri>spotify:track:7tsYqIK6cefVAIBgHCxTzP</spotify-uri>
+                        <embed-code>&lt;iframe src="https://embed.spotify.com/?uri=spotify:track:7tsYqIK6cefVAIBgHCxTzP" width="300" height="380" frameborder="0" allowtransparency="true"&gt;</embed-code>
+                    </song>
+                </songs>
+            </playlist>
+            <playlist>
+                <id>4</id>
+                <name>Acid of the lords</name>
+                <songs>
+                    <song>
+                        <http-link>http://open.spotify.com/track/00Je9S9Cal0TBiFy3Q2UUA</http-link>
+                        <spotify-uri>spotify:track:00Je9S9Cal0TBiFy3Q2UUA</spotify-uri>
+                        <embed-code>&lt;iframe src="https://embed.spotify.com/?uri=spotify:track:00Je9S9Cal0TBiFy3Q2UUA" width="300" height="380" frameborder="0" allowtransparency="true"&gt;</embed-code>
+                    </song>
+                    <song>
+                        <http-link>http://open.spotify.com/track/62Mxj01TTMorw2LBbsB3w5</http-link>
+                        <spotify-uri>spotify:track:62Mxj01TTMorw2LBbsB3w5</spotify-uri>
+                        <embed-code>&lt;iframe src="https://embed.spotify.com/?uri=spotify:track:62Mxj01TTMorw2LBbsB3w5" width="300" height="380" frameborder="0" allowtransparency="true"&gt;</embed-code>
+                    </song>
+                    <song>
+                        <http-link>http://open.spotify.com/track/20NNkYqZnaVccQ8FbckW6V</http-link>
+                        <spotify-uri>spotify:track:20NNkYqZnaVccQ8FbckW6V</spotify-uri>
+                        <embed-code>&lt;iframe src="https://embed.spotify.com/?uri=spotify:track:20NNkYqZnaVccQ8FbckW6V" width="300" height="380" frameborder="0" allowtransparency="true"&gt;</embed-code>
+                    </song>
+                </songs>
+            </playlist>
+        </playlists>
+        <progress-map>
+            <!-- probably won't need this if we do good enough validation -->
+            <default>
+                <playlist-id>1</playlist-id>
+            </default>
+            <maps>
+                <map>
+                    <percentage>
+                        <begin>0</begin>
+                        <end>20</end>
+                    </percentage>
+                    <playlist-id>1</playlist-id>
+                </map>
+                <map>
+                    <percentage>
+                        <begin>20</begin>
+                        <end>40</end>
+                    </percentage>
+                    <playlist-id>2</playlist-id>
+                </map>
+                <map>
+                    <percentage>
+                        <begin>40</begin>
+                        <end>60</end>
+                    </percentage>
+                    <playlist-id>3</playlist-id>
+                </map>
+                <map>
+                    <percentage>
+                        <begin>60</begin>
+                        <end>100</end>
+                    </percentage>
+                    <playlist-id>4</playlist-id>
+                </map>
+            </maps>
+        </progress-map>
+    </music>
+</stripe>

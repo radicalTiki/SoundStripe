@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="stripe">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="book">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="name"/>
+              <xs:element type="xs:string" name="author"/>
+              <xs:element type="xs:anyURI" name="image"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="music">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="playlists">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="playlist" maxOccurs="unbounded" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:byte" name="id"/>
+                          <xs:element type="xs:string" name="name"/>
+                          <xs:element name="songs">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element type="xs:anyURI" name="song" maxOccurs="unbounded" minOccurs="0"/>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="progress-map">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="default">
+                      <xs:annotation>
+                        <xs:documentation>probably won't need this if we do good enough validation</xs:documentation>
+                      </xs:annotation>
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:byte" name="playlist-id"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="maps">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="map" maxOccurs="unbounded" minOccurs="0">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="percentage">
+                                  <xs:complexType>
+                                    <xs:sequence>
+                                      <xs:element type="xs:byte" name="begin"/>
+                                      <xs:element type="xs:byte" name="end"/>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                                <xs:element type="xs:byte" name="playlist-id"/>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

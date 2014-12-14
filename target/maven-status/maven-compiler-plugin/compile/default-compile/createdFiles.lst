@@ -1,0 +1,10 @@
+com\soundstripe\xmlMaps\Percentage.class
+com\soundstripe\xmlMaps\Book.class
+com\soundstripe\xmlMaps\Music.class
+com\soundstripe\xmlMaps\Song.class
+com\soundstripe\xmlMaps\Stripe.class
+com\soundstripe\xmlMaps\Map.class
+com\soundstripe\xmlMaps\Playlist.class
+com\soundstripe\xmlMaps\Maps.class
+com\soundstripe\xmlMaps\ProgressMap.class
+com\soundstripe\SoundStripeXmlReader.class
