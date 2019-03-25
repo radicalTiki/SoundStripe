@@ -1,4 +1,4 @@
 SoundStripe
 ===========
 
-What what in the butt
+Music to book page selection
